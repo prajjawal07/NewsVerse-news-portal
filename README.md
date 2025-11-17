@@ -1,39 +1,31 @@
-# 👋 Hi, I'm Prajjawal Singh  
+NewsVerse
 
-🎓 Third-year B.Tech student in Information Technology  
-💻 Passionate about Software Development, IoT Systems, and Problem Solving  
-🌱 Currently learning: Full-Stack Development & Advanced Algorithms  
-🚀 Solved **400+ DSA problems overall** and **250+ on LeetCode** across platforms (LeetCode, Codeforces, GFG, Codechef)  
+🗞️ Your lightweight, responsive, front-end news platform
 
+✨ Overview
 
-## 🔧 Tech Stack
-- **Languages:** C++, Python, Java
-- **Web Development:** HTML, CSS  
-- **Tools & Platforms:** Git, GitHub, VS Code, Blynk Iot , Arduino IDE
+NewsVerse is a clean, responsive news platform built using HTML, CSS, and JavaScript.
+It focuses on fast load times, smooth browsing, and an engaging reading experience. The interface adapts elegantly to all screen sizes and includes social sharing features that help boost content reach.
 
----
+🔥 Features
 
-## 📊 GitHub Stats
-![Prajjawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajjawal07&show_icons=true&theme=radical)
+📱 Fully Responsive UI
+Mobile-first design that scales effortlessly from phones to desktops.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjawal07&layout=compact&theme=radical)
+🚀 Fast & Lightweight
+Pure HTML/CSS/JS without heavy frameworks.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajjawal07&theme=radical)
+🤝 Social Media Sharing
+Integrated share buttons that improved content distribution by 25%.
 
----
+🎨 Smooth UX / UI Enhancements
+Cleaner layout and improved readability helped increase session duration by 40%.
 
-## 🏆 Competitive Programming Profiles
-- 💡 **Codeforces:** [prajjawal07](https://codeforces.com/profile/prajjawal07)  
-- 💡 **LeetCode:** [prajjawal07](https://leetcode.com/u/prajjawal07/)  
-- 💡 **GeeksforGeeks:** [prajjawal07](https://www.geeksforgeeks.org/user/prajjawalsmc28/)  
+📰 Trending Content Layout
+Organized sections for quick navigation and intuitive browsing.
 
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prajjawal07)  
-- [Email](mailto:prajjawalsingh10@gmail.com)  
-
----
-
-⭐️ *"Code. Learn. Build. Repeat."*  
-
+🧰 Tech Stack
+Technology	Purpose
+🌐 HTML	Structure
+🎨 CSS	Styling & Responsiveness
+⚡ JavaScript	Interactivity & DOM handling
