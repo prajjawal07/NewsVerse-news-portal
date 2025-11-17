@@ -1,8 +1,7 @@
-<div align="center">
+
 
 # ⭐ **NewsVerse** ⭐
 
-</div>
 
 
 🗞️ Your lightweight, responsive, front-end news platform
